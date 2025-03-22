@@ -4,6 +4,21 @@
 # General Information
 Repositori ini berisikan program untuk memenuhi penilaian mata kuliah Strategi Algoritma IF2211. Setiap program merupakan algoritma bagi robot dalam permainan Robocode. Terdapat 4 program dengan algoritma _greedy_ dengan fokus yang berbeda. Bahasa pemrograman yang digunakan dalam kode program adalah C#.
 
+# Daftar Bot yang Dibuat
+### 1. Bot Maniac (Greedy by Bullet Damage - Ram Damage - Ram Damage Bonus)
+- Menghasilkan skor dengan tembakan dan tabrakan.
+- Memanfaatkan bullet damage, ram damage, dan bonus tambahan dari tabrakan yang menghabisi lawan.
+
+### 2. Bot Eits (Greedy by Bullet Damage - Bullet Damage Bonus - Survival Score)
+- Mengoptimalkan bullet damage, bonus tembakan, dan survival score.
+- Mengutamakan akurasi serangan dan menghindari tembakan musuh dengan strategi dodge.
+
+### 3. Bot Lawrie (Greedy by Bullet Damage - Bullet Damage Bonus - Survival Score - Last Survival Score)
+- Fokus pada bertahan hidup hingga akhir ronde.
+- Menghindari kerumunan, memilih posisi aman, dan menyerang lawan secara strategis.
+
+Setiap bot menggunakan pendekatan greedy untuk memaksimalkan skor dengan strategi uniknya masing-masing.
+
 # Package Information
 - Folder _src_ berisikan 4 folder lain yaitu folder _main-bot_ dan _alternative-bots_
 - Folder _main-bot_ berisikan kode program untuk robot utama yang ingin digunakan
