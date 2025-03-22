@@ -1,0 +1,10 @@
+{
+  "name": "Lawrie",
+  "version": "1.0",
+  "authors": ["Ivan Wirawn"],
+  "description": "A bot that runs away from enemy in order to achieve maximum survivability",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 9.0",
+  "programmingLang": "C# 10.0"
+}
