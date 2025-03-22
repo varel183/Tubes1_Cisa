@@ -1,0 +1,10 @@
+{
+  "name": "Union",
+  "version": "1.0",
+  "authors": ["Varel, Bryan, Ivan"],
+  "description": "A bot that perform offensive and deffensive according to the game state.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 7.0",
+  "programmingLang": "C# 10.0"
+}

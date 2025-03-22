@@ -1,0 +1,10 @@
+{
+  "name": "Maniac",
+  "version": "1.0",
+  "authors": ["Varel"],
+  "description": "A bot that is always on the offensive, and never backs down.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 7.0",
+  "programmingLang": "C# 10.0"
+}
