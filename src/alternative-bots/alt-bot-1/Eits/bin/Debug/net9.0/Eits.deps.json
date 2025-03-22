@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "TemplateBot/1.0.0": {
+      "Eits/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Binder": "8.0.2",
           "Robocode.TankRoyale.BotApi": "0.30.0"
         },
         "runtime": {
-          "TemplateBot.dll": {}
+          "Eits.dll": {}
         }
       },
       "Microsoft.Build.Locator/1.7.8": {
@@ -194,7 +194,7 @@
     }
   },
   "libraries": {
-    "TemplateBot/1.0.0": {
+    "Eits/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

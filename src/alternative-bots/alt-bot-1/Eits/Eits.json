@@ -1,0 +1,10 @@
+{
+  "name": "Eits",
+  "version": "1.0",
+  "authors": ["Bryan Ho"],
+  "description": "A bot that Eits Eits",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

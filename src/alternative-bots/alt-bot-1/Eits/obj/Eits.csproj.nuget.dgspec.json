@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\TemplateBot\\TemplateBot.csproj": {}
+    "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\Eits\\Eits.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\TemplateBot\\TemplateBot.csproj": {
+    "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\Eits\\Eits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\TemplateBot\\TemplateBot.csproj",
-        "projectName": "TemplateBot",
-        "projectPath": "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\TemplateBot\\TemplateBot.csproj",
+        "projectUniqueName": "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\Eits\\Eits.csproj",
+        "projectName": "Eits",
+        "projectPath": "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\Eits\\Eits.csproj",
         "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\TemplateBot\\obj\\",
+        "outputPath": "C:\\Users\\bryan\\Downloads\\tubes1-if2211-starter-pack-1.0\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\Eits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
