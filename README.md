@@ -47,15 +47,15 @@ Berikut langkah-langkah untuk menjalankan program.
 
 1. Pastikan directory berada di file path “tubes1-if2211-starter-pack-1.0\tubes1-if2211-starter-pack-1.0” lalu jalankan GUI dengan mengetik “java -jar robocode-tankroyale-gui-0.30.0.jar” di terminal.
 2. Lakukan set up config dengan cara klik tombol “Config -> Bot Root Directories”. Kemudian masukkan folder yang berisi sample bots atau bot yang telah dibuat.
-3. Jalankan battle dengan cara klik tombol “Battle -> Start Battle” akan muncul panel konfigurasi permainan. Boot bot yang ingin dimainkan dengan cara dan tambahkan bot ke dalam arena dengan cara klik tombol “Add”.
+3. Jalankan battle dengan cara klik tombol “Battle -> Start Battle” akan muncul panel konfigurasi permainan. Boot bot yang ingin dimainkan dengan cara menekan tombol “Boot” pada bot yang ingin dimainkan dan tambahkan bot ke dalam arena dengan cara klik tombol “Add”.
 4. Mulai permainan dengan cara klik tombol “Start Battle”.
 
 # Features
 
-- Robot pertama (main) merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Ram Damage - Ram Damage Bonus_
-- Robot kedua merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Bullet Damage Bonus - Survival Score_
-- Robot ketiga merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Bullet Damage Bonus - Survival Score - Last Survival Score_
-- Robot keempat merupakan implementasi algoritma _greedy_ berbasis
+- Robot pertama (Maniac) merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Ram Damage - Ram Damage Bonus_
+- Robot kedua (Eits) merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Bullet Damage Bonus - Survival Score_
+- Robot ketiga (Lawrie/main) merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Bullet Damage Bonus - Survival Score - Last Survival Score_
+- Robot keempat (Union) merupakan implementasi algoritma _greedy_ berbasis _Bullet Damage - Bullet Damage Bonus - Ram Damage - Ram Damage Bonus - Survival Score - Last Survival Score_
 
 # Links
 
